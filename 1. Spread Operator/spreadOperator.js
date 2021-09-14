@@ -59,7 +59,7 @@ obj3.name = obj.name;
 obj3.occupation = obj.occupation;
 obj3.age = 21; // because I am actually 21 :|
 
-console.log(obj3); //{ name: 'Ayush Rameja', occupation: 'Make Good UI ;)', age: 21 }
+console.log(obj3); //{ name: 'Ayush Rameja', occupation: 'Make Good UI ;)', age: 21  }
 
 // ! methord 2:
 // use spread operator
